@@ -1,0 +1,101 @@
+Backfield Set,Blitz Direction (Field/Boundary),Blitz Strength (Strong/Weak),Blitz Type,Coverage,Dataset Type,Defense,Defensive Front,Distance,Down,Field Zone,Formation,Game,Hash,Motion,Notes,Number of Blitzers,Offense,Offensive Formation,Offensive Personnel,Outcome,Penalty,Personnel,Play Call,Play Type,Pressure Gap,Quarter,Result,Stunt,Time Remaining,Turnover,Turnover Forced,Yard Line,Yards Allowed,Yards Gained
+Near,,,,,Offense,Opponent,,2,1,Coming Out,Ace,Game 3,Middle,None,,,Us,,,Success,False Start,10P,Inside Zone,Run,,2,TFL,,8:26,Fumble,,34,,27.0
+Pistol,,,,,Offense,Opponent,,14,1,Coming Out,Nub,Game 2,Middle,Orbit,,,Us,,,Fail,False Start,10P,Power,Run,,1,Incomplete,,14:44,None,,64,,36.0
+Near,,,,,Offense,Opponent,,10,4,Open Field,Ace,Game 1,Middle,Shift,,,Us,,,Fail,False Start,11P,Inside Zone,Run,,3,Incomplete,,0:56,Interception,,92,,19.0
+Near,,,,,Offense,Opponent,,2,1,Low Red,Twins,Game 5,Middle,Jet,,,Us,,,Fail,Holding,10P,Power,Run,,4,Incomplete,,12:41,None,,59,,34.0
+Pistol,,,,,Offense,Opponent,,12,3,Open Field,Trips,Game 5,Left,Shift,,,Us,,,Success,False Start,10P,Power,Run,,3,Complete,,0:39,Fumble,,40,,39.0
+Pistol,,,,,Offense,Opponent,,8,4,Low Red,Ace,Game 4,Middle,Shift,,,Us,,,Fail,None,11P,Outside Zone,Run,,3,Complete,,10:28,Interception,,13,,12.0
+Pistol,,,,,Offense,Opponent,,2,4,Open Field,Ace,Game 4,Middle,Jet,,,Us,,,Fail,Holding,12P,Inside Zone,Run,,4,Incomplete,,7:19,Fumble,,54,,21.0
+Pistol,,,,,Offense,Opponent,,7,1,Low Red,Nub,Game 3,Middle,None,,,Us,,,Fail,False Start,12P,Outside Zone,Run,,3,Incomplete,,4:31,Fumble,,6,,20.0
+Pistol,,,,,Offense,Opponent,,6,4,Goal Line,Doubles,Game 4,Left,Orbit,,,Us,,,Fail,None,10P,Outside Zone,Run,,2,Incomplete,,13:00,Fumble,,94,,25.0
+Pistol,,,,,Offense,Opponent,,2,1,Low Red,Nub,Game 1,Middle,Orbit,,,Us,,,Fail,False Start,11P,PAP,Pass,,4,Run,,9:01,Fumble,,92,,4.0
+Far,,,,,Offense,Opponent,,13,4,Open Field,Trips,Game 4,Left,None,,,Us,,,Fail,Holding,12P,Power,Run,,2,Complete,,13:58,Fumble,,15,,1.0
+Far,,,,,Offense,Opponent,,13,3,Coming Out,Doubles,Game 1,Left,None,,,Us,,,Fail,None,10P,Inside Zone,Run,,2,Sack,,6:14,Fumble,,12,,11.0
+Near,,,,,Offense,Opponent,,9,3,Goal Line,Ace,Game 1,Left,None,,,Us,,,Success,False Start,10P,Counter,Run,,3,Sack,,14:32,Interception,,53,,28.0
+Far,,,,,Offense,Opponent,,12,4,Low Red,Doubles,Game 5,Right,Jet,,,Us,,,Fail,Holding,12P,Outside Zone,Run,,2,Run,,5:56,Interception,,43,,25.0
+Pistol,,,,,Offense,Opponent,,4,2,Coming Out,Trips,Game 3,Right,Jet,,,Us,,,Fail,Holding,11P,90,Pass,,1,Touchdown,,10:41,Interception,,80,,2.0
+Pistol,,,,,Offense,Opponent,,8,1,Open Field,Nub,Game 3,Middle,Orbit,,,Us,,,Fail,None,10P,Inside Zone,Run,,4,Run,,14:23,Fumble,,72,,32.0
+Pistol,,,,,Offense,Opponent,,7,3,Low Red,Doubles,Game 4,Middle,None,,,Us,,,Fail,False Start,11P,Power,Run,,2,Complete,,2:17,Fumble,,16,,13.0
+Near,,,,,Offense,Opponent,,11,4,Low Red,Trips,Game 3,Middle,None,,,Us,,,Fail,False Start,11P,Boot,Pass,,4,Complete,,3:18,None,,83,,11.0
+Near,,,,,Offense,Opponent,,6,1,Open Field,Nub,Game 1,Right,Jet,,,Us,,,Fail,None,12P,Outside Zone,Run,,1,Incomplete,,0:15,Interception,,54,,40.0
+Near,,,,,Offense,Opponent,,2,4,Coming Out,Doubles,Game 4,Left,Jet,,,Us,,,Success,None,10P,Power,Run,,4,Touchdown,,9:27,None,,50,,29.0
+Near,,,,,Offense,Opponent,,10,2,Goal Line,Nub,Game 3,Left,Jet,,,Us,,,Success,Holding,12P,Inside Zone,Run,,2,Run,,12:05,None,,59,,33.0
+Far,,,,,Offense,Opponent,,3,2,Open Field,Trips,Game 4,Right,Orbit,,,Us,,,Fail,False Start,12P,Boot,Pass,,4,Run,,9:08,None,,16,,20.0
+Far,,,,,Offense,Opponent,,1,1,Open Field,Twins,Game 4,Middle,None,,,Us,,,Success,False Start,12P,Inside Zone,Run,,1,TFL,,1:33,Fumble,,89,,2.0
+Far,,,,,Offense,Opponent,,14,4,Open Field,Nub,Game 1,Left,None,,,Us,,,Fail,None,12P,80,Pass,,3,TFL,,8:37,Interception,,64,,24.0
+Far,,,,,Offense,Opponent,,15,1,Low Red,Nub,Game 4,Middle,Jet,,,Us,,,Success,None,11P,70,Pass,,1,Touchdown,,9:04,None,,47,,29.0
+Pistol,,,,,Offense,Opponent,,1,1,Goal Line,Trips,Game 5,Middle,None,,,Us,,,Success,None,10P,Boot,Pass,,4,Incomplete,,10:10,Interception,,54,,25.0
+Pistol,,,,,Offense,Opponent,,2,2,Goal Line,Doubles,Game 4,Middle,None,,,Us,,,Fail,False Start,10P,Inside Zone,Run,,2,Incomplete,,5:01,Interception,,63,,1.0
+Far,,,,,Offense,Opponent,,9,4,Low Red,Ace,Game 3,Left,Shift,,,Us,,,Fail,None,12P,Boot,Pass,,3,TFL,,5:36,None,,96,,14.0
+Far,,,,,Offense,Opponent,,2,4,Coming Out,Nub,Game 2,Right,Shift,,,Us,,,Fail,Holding,11P,80,Pass,,4,TFL,,9:28,Fumble,,1,,32.0
+Pistol,,,,,Offense,Opponent,,10,3,Coming Out,Twins,Game 3,Middle,Shift,,,Us,,,Success,None,11P,Inside Zone,Run,,4,Run,,12:57,None,,75,,4.0
+Far,,,,,Offense,Opponent,,6,2,Open Field,Nub,Game 3,Left,Shift,,,Us,,,Success,Holding,12P,Outside Zone,Run,,2,Sack,,11:41,None,,93,,17.0
+Pistol,,,,,Offense,Opponent,,4,2,Low Red,Nub,Game 2,Left,None,,,Us,,,Success,Holding,12P,Inside Zone,Run,,2,Run,,10:02,Interception,,7,,16.0
+Pistol,,,,,Offense,Opponent,,14,4,Low Red,Doubles,Game 4,Middle,Jet,,,Us,,,Fail,None,11P,Outside Zone,Run,,4,Touchdown,,11:10,Fumble,,67,,31.0
+Near,,,,,Offense,Opponent,,8,1,Open Field,Doubles,Game 5,Right,None,,,Us,,,Success,None,12P,Outside Zone,Run,,4,Incomplete,,9:35,Fumble,,22,,17.0
+Far,,,,,Offense,Opponent,,14,2,Coming Out,Trips,Game 4,Right,Jet,,,Us,,,Success,False Start,10P,Outside Zone,Run,,4,Touchdown,,9:41,Fumble,,95,,27.0
+Pistol,,,,,Offense,Opponent,,13,1,Open Field,Twins,Game 4,Left,Jet,,,Us,,,Fail,Holding,10P,Outside Zone,Run,,4,Run,,12:20,Interception,,47,,40.0
+Far,,,,,Offense,Opponent,,7,1,Low Red,Nub,Game 5,Middle,None,,,Us,,,Success,False Start,11P,PAP,Pass,,2,Touchdown,,0:16,None,,20,,20.0
+Far,,,,,Offense,Opponent,,7,1,Coming Out,Doubles,Game 3,Left,None,,,Us,,,Fail,False Start,12P,Inside Zone,Run,,2,Sack,,1:08,Fumble,,15,,32.0
+Pistol,,,,,Offense,Opponent,,5,2,Low Red,Twins,Game 5,Left,Shift,,,Us,,,Success,Holding,12P,Inside Zone,Run,,3,Incomplete,,6:48,Interception,,55,,16.0
+Near,,,,,Offense,Opponent,,4,1,Coming Out,Doubles,Game 3,Right,Jet,,,Us,,,Fail,False Start,10P,Inside Zone,Run,,2,Incomplete,,12:24,None,,72,,1.0
+Near,,,,,Offense,Opponent,,10,2,Coming Out,Twins,Game 5,Left,Orbit,,,Us,,,Success,False Start,10P,Outside Zone,Run,,3,Touchdown,,3:51,Fumble,,99,,2.0
+Far,,,,,Offense,Opponent,,13,2,Goal Line,Nub,Game 1,Left,Orbit,,,Us,,,Fail,Holding,12P,Power,Run,,1,Run,,13:17,Interception,,3,,19.0
+Pistol,,,,,Offense,Opponent,,13,3,Goal Line,Trips,Game 4,Right,None,,,Us,,,Success,False Start,11P,Inside Zone,Run,,2,Complete,,14:38,None,,12,,36.0
+Near,,,,,Offense,Opponent,,10,1,Open Field,Nub,Game 3,Left,Jet,,,Us,,,Fail,Holding,10P,Inside Zone,Run,,4,Touchdown,,6:44,Fumble,,14,,26.0
+Pistol,,,,,Offense,Opponent,,6,4,Open Field,Doubles,Game 2,Left,Orbit,,,Us,,,Success,False Start,12P,PAP,Pass,,4,Incomplete,,9:13,Interception,,68,,5.0
+Far,,,,,Offense,Opponent,,14,4,Coming Out,Ace,Game 4,Left,None,,,Us,,,Success,False Start,11P,Outside Zone,Run,,1,TFL,,10:50,Interception,,91,,1.0
+Pistol,,,,,Offense,Opponent,,10,1,Coming Out,Trips,Game 4,Right,None,,,Us,,,Success,Holding,11P,Counter,Run,,4,Sack,,8:12,Interception,,84,,4.0
+Far,,,,,Offense,Opponent,,10,2,Goal Line,Trips,Game 4,Right,None,,,Us,,,Success,None,10P,Outside Zone,Run,,1,Sack,,1:20,None,,98,,31.0
+Pistol,,,,,Offense,Opponent,,7,3,Open Field,Ace,Game 2,Right,None,,,Us,,,Fail,None,12P,Inside Zone,Run,,4,Run,,12:29,Fumble,,2,,34.0
+Far,,,,,Offense,Opponent,,14,2,Goal Line,Doubles,Game 5,Right,Shift,,,Us,,,Fail,Holding,10P,70,Pass,,1,Complete,,13:06,None,,98,,39.0
+Near,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Bear,15,1,Open Field,,Game 1,Left,None,,5.0,Opponent,Nub,12P,,Offside,,,,D,1,Incomplete,ET,7:47,,Interception,5,17.0,
+Pistol,Boundary,Weak,Man Pressure,Cover 0,Defense,Us,Bear,3,1,Open Field,,Game 1,Right,Shift,,4.0,Opponent,Ace,12P,,Offside,,,,C,2,Sack,TT,4:40,,Fumble,72,-7.0,
+Pistol,Field,Strong,Man Pressure,Cover 1,Defense,Us,Bear,7,3,Open Field,,Game 4,Left,None,,5.0,Opponent,Twins,10P,,None,,,,D,2,Touchdown,None,0:12,,Fumble,74,36.0,
+Pistol,Boundary,Weak,Fire Zone,Cover 3,Defense,Us,Bear,14,1,Open Field,,Game 4,Middle,None,,6.0,Opponent,Trips,11P,,Holding,,,,B,1,Sack,TT,4:29,,None,61,-10.0,
+Near,Field,Strong,Man Pressure,Cover 1,Defense,Us,Even,12,3,Low Red,,Game 5,Middle,Orbit,,5.0,Opponent,Trips,10P,,Offside,,,,A,4,Sack,TT,11:28,,None,42,17.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Bear,9,3,Goal Line,,Game 3,Left,Jet,,5.0,Opponent,Trips,12P,,None,,,,C,2,Touchdown,TE,11:29,,None,54,-6.0,
+Far,Field,Strong,Man Pressure,Quarters,Defense,Us,Even,13,1,Coming Out,,Game 2,Right,Shift,,6.0,Opponent,Twins,11P,,Holding,,,,B,4,Complete,TT,11:03,,Interception,78,-7.0,
+Near,Boundary,Strong,Man Pressure,Cover 0,Defense,Us,Even,4,4,Open Field,,Game 5,Left,None,,4.0,Opponent,Nub,11P,,Holding,,,,C,1,Incomplete,TT,1:24,,Fumble,90,-2.0,
+Near,Boundary,Strong,Man Pressure,Cover 0,Defense,Us,Odd,7,4,Goal Line,,Game 2,Middle,None,,4.0,Opponent,Trips,11P,,None,,,,B,2,Complete,TT,9:36,,Interception,16,20.0,
+Near,Field,Weak,Zone Pressure,Cover 1,Defense,Us,Bear,1,2,Low Red,,Game 3,Left,Orbit,,6.0,Opponent,Twins,12P,,None,,,,A,3,Sack,ET,12:03,,Interception,17,20.0,
+Near,Boundary,Weak,Fire Zone,Cover 3,Defense,Us,Bear,12,1,Open Field,,Game 1,Middle,Jet,,6.0,Opponent,Nub,11P,,None,,,,A,3,Complete,TT,4:07,,None,7,7.0,
+Far,Field,Strong,Man Pressure,Cover 1,Defense,Us,Even,2,4,Coming Out,,Game 5,Middle,None,,5.0,Opponent,Ace,12P,,None,,,,B,1,Complete,None,11:40,,Interception,54,39.0,
+Far,Boundary,Weak,Zone Pressure,Quarters,Defense,Us,Bear,14,4,Goal Line,,Game 3,Right,Orbit,,4.0,Opponent,Nub,12P,,Offside,,,,C,1,Run Stop,ET,8:45,,Interception,84,36.0,
+Near,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Bear,12,4,Coming Out,,Game 1,Left,Jet,,5.0,Opponent,Twins,11P,,Offside,,,,B,4,Run Stop,None,5:10,,Fumble,93,-8.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Bear,7,1,Coming Out,,Game 3,Middle,None,,5.0,Opponent,Nub,12P,,None,,,,D,2,Complete,TT,6:17,,Fumble,28,13.0,
+Near,Field,Strong,Man Pressure,Cover 1,Defense,Us,Bear,12,2,Coming Out,,Game 5,Left,Shift,,5.0,Opponent,Doubles,11P,,None,,,,D,3,Incomplete,TT,10:30,,Interception,37,8.0,
+Near,Boundary,Weak,Man Pressure,Cover 2,Defense,Us,Even,15,3,Open Field,,Game 2,Middle,Jet,,4.0,Opponent,Nub,10P,,None,,,,B,2,Touchdown,None,7:22,,Interception,3,1.0,
+Far,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Even,2,1,Coming Out,,Game 4,Middle,Shift,,5.0,Opponent,Twins,11P,,Holding,,,,C,1,Incomplete,ET,3:10,,Fumble,54,26.0,
+Pistol,Field,Strong,Man Pressure,Cover 1,Defense,Us,Even,11,4,Goal Line,,Game 2,Middle,Shift,,5.0,Opponent,Nub,10P,,Offside,,,,B,1,Sack,TE,6:38,,Fumble,31,33.0,
+Far,Field,Weak,Man Pressure,Cover 1,Defense,Us,Bear,2,1,Open Field,,Game 5,Right,Shift,,5.0,Opponent,Twins,12P,,None,,,,B,1,Sack,None,3:55,,Fumble,58,8.0,
+Pistol,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Bear,5,1,Coming Out,,Game 5,Left,Shift,,5.0,Opponent,Twins,10P,,None,,,,B,2,Incomplete,TT,4:11,,Interception,90,39.0,
+Near,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Bear,6,4,Low Red,,Game 4,Right,None,,5.0,Opponent,Nub,11P,,Offside,,,,C,1,Sack,TE,7:53,,Interception,21,-10.0,
+Far,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Odd,11,1,Open Field,,Game 4,Left,Jet,,5.0,Opponent,Trips,12P,,None,,,,A,4,Sack,TT,5:29,,Fumble,90,15.0,
+Pistol,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Even,14,2,Open Field,,Game 2,Right,Orbit,,5.0,Opponent,Twins,10P,,Offside,,,,A,3,Run Stop,ET,3:39,,Fumble,63,14.0,
+Near,Boundary,Strong,Man Pressure,Cover 3,Defense,Us,Odd,3,2,Low Red,,Game 3,Left,Orbit,,4.0,Opponent,Ace,11P,,Holding,,,,C,1,Sack,TE,9:45,,Fumble,78,0.0,
+Far,Field,Weak,Fire Zone,Cover 1,Defense,Us,Odd,13,4,Goal Line,,Game 2,Right,Jet,,6.0,Opponent,Nub,12P,,Offside,,,,D,3,Sack,TE,14:08,,Fumble,35,-5.0,
+Far,Field,Strong,Man Pressure,Cover 1,Defense,Us,Even,2,3,Open Field,,Game 1,Middle,Orbit,,5.0,Opponent,Twins,10P,,Offside,,,,A,3,Touchdown,None,10:43,,None,43,-4.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Bear,12,2,Coming Out,,Game 4,Right,Orbit,,5.0,Opponent,Nub,12P,,Holding,,,,C,3,Sack,ET,2:30,,Fumble,28,2.0,
+Near,Field,Strong,Man Pressure,Cover 1,Defense,Us,Bear,2,1,Coming Out,,Game 5,Right,Jet,,5.0,Opponent,Ace,10P,,None,,,,B,2,Run Stop,None,8:13,,Interception,46,14.0,
+Far,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Odd,12,3,Goal Line,,Game 2,Middle,Shift,,5.0,Opponent,Twins,11P,,Offside,,,,A,4,Touchdown,TE,7:55,,Fumble,21,33.0,
+Pistol,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Bear,2,3,Coming Out,,Game 2,Middle,Shift,,5.0,Opponent,Trips,12P,,Holding,,,,D,1,Touchdown,ET,1:11,,None,64,0.0,
+Far,Field,Weak,Man Pressure,Cover 3,Defense,Us,Odd,15,2,Low Red,,Game 4,Left,Orbit,,6.0,Opponent,Doubles,12P,,Holding,,,,A,3,Sack,None,5:54,,Interception,96,15.0,
+Near,Field,Weak,Man Pressure,Cover 1,Defense,Us,Odd,2,3,Low Red,,Game 1,Right,Jet,,5.0,Opponent,Nub,11P,,None,,,,D,4,Complete,ET,9:32,,None,62,31.0,
+Pistol,Boundary,Weak,Man Pressure,Quarters,Defense,Us,Odd,2,3,Goal Line,,Game 2,Right,Orbit,,4.0,Opponent,Twins,10P,,Offside,,,,A,2,Run Stop,ET,13:43,,None,20,39.0,
+Far,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Bear,3,4,Coming Out,,Game 3,Right,Orbit,,5.0,Opponent,Ace,11P,,None,,,,B,1,Complete,TT,13:32,,Interception,43,37.0,
+Pistol,Field,Weak,Man Pressure,Cover 1,Defense,Us,Bear,15,2,Open Field,,Game 1,Middle,None,,5.0,Opponent,Nub,12P,,None,,,,A,4,Touchdown,TT,5:19,,Fumble,82,25.0,
+Far,Field,Strong,Man Pressure,Cover 1,Defense,Us,Bear,1,3,Low Red,,Game 3,Middle,Shift,,5.0,Opponent,Nub,11P,,Holding,,,,D,2,Run Stop,TE,4:55,,Interception,8,1.0,
+Near,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Bear,7,3,Goal Line,,Game 4,Middle,Orbit,,5.0,Opponent,Trips,11P,,None,,,,C,2,Incomplete,TT,9:40,,Interception,52,36.0,
+Pistol,Field,Weak,Man Pressure,Cover 1,Defense,Us,Bear,5,3,Low Red,,Game 4,Right,Jet,,5.0,Opponent,Doubles,12P,,None,,,,A,3,Incomplete,TT,14:44,,Interception,38,9.0,
+Pistol,Boundary,Weak,Man Pressure,Cover 1,Defense,Us,Odd,10,1,Goal Line,,Game 5,Left,Jet,,5.0,Opponent,Nub,12P,,Offside,,,,B,4,Run Stop,ET,4:43,,Interception,54,29.0,
+Near,Field,Weak,Man Pressure,Cover 1,Defense,Us,Even,8,1,Coming Out,,Game 3,Middle,None,,6.0,Opponent,Nub,12P,,Offside,,,,B,3,Sack,TT,10:40,,None,42,15.0,
+Pistol,Field,Weak,Man Pressure,Cover 1,Defense,Us,Bear,4,2,Goal Line,,Game 3,Middle,Orbit,,5.0,Opponent,Twins,11P,,Offside,,,,D,1,Incomplete,TE,7:23,,Fumble,85,22.0,
+Near,Field,Strong,Fire Zone,Quarters,Defense,Us,Bear,13,2,Goal Line,,Game 4,Right,None,,4.0,Opponent,Trips,12P,,Holding,,,,C,4,Touchdown,ET,1:01,,Interception,98,0.0,
+Pistol,Boundary,Strong,Man Pressure,Cover 2,Defense,Us,Even,15,3,Goal Line,,Game 1,Right,None,,6.0,Opponent,Twins,10P,,Offside,,,,A,1,Complete,TT,11:56,,Fumble,32,35.0,
+Far,Field,Weak,Man Pressure,Cover 1,Defense,Us,Even,13,1,Open Field,,Game 3,Middle,Jet,,5.0,Opponent,Nub,11P,,Holding,,,,B,3,Incomplete,TT,12:21,,Fumble,49,5.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Odd,1,1,Coming Out,,Game 3,Middle,Shift,,5.0,Opponent,Ace,10P,,Offside,,,,B,4,Touchdown,TT,14:13,,Interception,8,-10.0,
+Near,Field,Strong,Fire Zone,Cover 3,Defense,Us,Even,14,2,Open Field,,Game 5,Right,Shift,,4.0,Opponent,Nub,11P,,None,,,,B,4,Touchdown,TE,11:26,,Fumble,28,19.0,
+Pistol,Boundary,Strong,Fire Zone,Cover 0,Defense,Us,Odd,10,2,Open Field,,Game 1,Right,Orbit,,6.0,Opponent,Ace,10P,,Holding,,,,A,3,Complete,None,0:11,,None,79,16.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Odd,7,3,Open Field,,Game 2,Left,Orbit,,5.0,Opponent,Trips,12P,,Offside,,,,B,1,Incomplete,None,3:19,,Interception,51,2.0,
+Near,Boundary,Strong,Man Pressure,Cover 1,Defense,Us,Odd,2,4,Coming Out,,Game 3,Right,Jet,,5.0,Opponent,Nub,12P,,Holding,,,,A,2,Run Stop,ET,2:16,,None,48,14.0,
