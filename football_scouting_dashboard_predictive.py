@@ -1,14 +1,24 @@
-
 import streamlit as st
 import pandas as pd
+from pathlib import Path
 
 st.set_page_config(page_title="Football Scouting Dashboard – Predictive", layout="wide")
 
 st.title("🏈 Football Scouting Dashboard – Merged + Predictive Analysis")
 st.markdown("Toggle between Offense and Defense views and get predictions from historical data.")
 
-# Load merged dataset
-df = pd.read_csv("/mnt/data/merged_offense_defense_tendency_heavy.csv")
+# Try to load CSV from the same folder as this script
+default_csv = Path(__file__).parent / "merged_offense_defense_tendency_heavy.csv"
+
+uploaded_file = st.file_uploader("Upload a merged Offense+Defense CSV (optional). If you skip, we'll try the bundled demo file.", type=["csv"])
+
+if uploaded_file:
+    df = pd.read_csv(uploaded_file)
+elif default_csv.exists():
+    df = pd.read_csv(default_csv)
+else:
+    st.error("No data found. Please upload a merged CSV to continue.")
+    st.stop()
 
 dataset_type = st.radio("Select Dataset Type", ["Offense", "Defense"])
 df_filtered = df[df["Dataset Type"] == dataset_type]
